@@ -1,0 +1,20 @@
+bundle: agent-forge-optimization
+items:
+  - id: agent/optimization/context-manager
+    kind: agent
+    name: context-manager
+    domain: optimization
+    license: MIT
+    description: Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates c
+  - id: agent/optimization/prompt-engineer
+    kind: agent
+    name: prompt-engineer
+    domain: optimization
+    license: MIT
+    description: Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and p
+  - id: agent/optimization/token-optimizer
+    kind: agent
+    name: token-optimizer
+    domain: optimization
+    license: MIT
+    description: Token- and context-efficiency specialist. Use PROACTIVELY before and during long sessions, large refactors, or repo-wide tasks to minimize token spend and conte
